@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/20 13:38:24.000.966,=C:\Users\andre\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/30 20:07:15.000.722,=C:\Users\andre\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/30 20:09:27.000.200,C:\Sistema\Forms\U_Cadastro.pas=C:\Users\andre\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/30 20:09:27.000.200,C:\Sistema\Forms\U_Cadastro.dfm=C:\Users\andre\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2021/08/30 20:09:50.000.307,C:\Sistema\Projeto\Contato.dproj=C:\Users\andre\OneDrive\Documentos\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2021/08/30 22:23:57.000.555,=C:\Sistema\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 22:26:34.000.034,C:\Sistema\Projeto\Unit1.dfm=C:\Sistema\Forms\U_Pesquisa.dfm</Transaction>
+    <Transaction>2021/08/30 22:26:34.000.034,C:\Sistema\Projeto\Unit1.pas=C:\Sistema\Forms\U_Pesquisa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
